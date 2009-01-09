@@ -1,0 +1,6 @@
+El nuevo orix solicitara cualquier informacion a traves de servicios externos.
+Los posibles proveedores son:
+	Ring-c de madjester
+	http ^ (cgi v php v perl v etc)
+
+Orix solo mantendra informacion respecto a bots e implementara interfaces para su manipulacion.

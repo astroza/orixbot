@@ -1,0 +1,6 @@
+CC=gcc
+
+all:
+	$(CC) orixctl.c -o orixctl
+clean:
+	rm -f orixctl
